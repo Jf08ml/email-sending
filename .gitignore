@@ -44,7 +44,7 @@ yarn.lock
 # Archivos de configuración de despliegue de Vercel
 .vercel
 .vercelignore
-vercel.json
+.vercel.json
 
 # Carpeta de archivos estáticos generados
 /public
